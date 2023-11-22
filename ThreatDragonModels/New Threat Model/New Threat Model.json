@@ -1,0 +1,16 @@
+{
+  "version": "2.1.1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "adithya",
+    "description": "The backend architecture for login page and web application are reviewed for security flaws.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "adi",
+    "threatTop": 0
+  }
+}
